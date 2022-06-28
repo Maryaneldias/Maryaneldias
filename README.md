@@ -1,5 +1,4 @@
-# Maryane
-<p> Olá! Eu sou Maryane Dias.</p>
+<h1> <strong> Olá! Eu sou a Maryane Dias.</strong> </h1>
 <p>👩‍💻 Estudante de análise e desenvolvimento de sistemas!</p>
 <p>📝 Aprendendo JS, HTML5 e CSS3.</p>
 <p>🏃‍♀️ Curto correr nas horas vagas.</p>
