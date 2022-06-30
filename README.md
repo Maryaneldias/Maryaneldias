@@ -23,7 +23,8 @@
   <a href = "mailto:maryanedev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maryane-dias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-</div>
+</div> 
+<p> Esse parágrafo foi add no aplicativo Github desktop para Linux </p>
 
 <!--- 👋 Hi, I’m @Maryaneldias
 - 👀 I’m interested in ...
